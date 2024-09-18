@@ -1,0 +1,70 @@
+[
+	{
+		"productName": "Valentines Box",
+		"productID": "P001",
+		"items": [
+			{
+				"itemName": "Red Roses Bouquet",
+				"SKU": "SKU001",
+				"itemPrice": 40.0
+			},
+			{
+				"itemName": "Box of Chocolates",
+				"SKU": "SKU002",
+				"itemPrice": 15.0
+			},
+			{
+				"itemName": "Love Card",
+				"SKU": "SKU003",
+				"itemPrice": 5.0
+			},
+			{
+				"itemName": "Women’s Perfume",
+				"SKU": "SKU004",
+				"itemPrice": 35.0
+			}
+		]
+	},
+	{
+		"productName": "Birthday Box",
+		"productID": "P002",
+		"items": [
+			{
+				"itemName": "Birthday Cupcake",
+				"SKU": "SKU005",
+				"itemPrice": 10.0
+			},
+			{
+				"itemName": "$100 Visa Gift Card",
+				"SKU": "SKU006",
+				"itemPrice": 100.0
+			},
+			{
+				"itemName": "Birthday Card",
+				"SKU": "SKU007",
+				"itemPrice": 5.0
+			}
+		]
+	},
+	{
+		"productName": "Client Gift Box",
+		"productID": "P003",
+		"items": [
+			{
+				"itemName": "Bottle of Wine",
+				"SKU": "SKU008",
+				"itemPrice": 50.0
+			},
+			{
+				"itemName": "Fruit Basket",
+				"SKU": "SKU009",
+				"itemPrice": 25.0
+			},
+			{
+				"itemName": "Pen",
+				"SKU": "SKU010",
+				"itemPrice": 10.0
+			}
+		]
+	}
+]
