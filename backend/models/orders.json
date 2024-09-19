@@ -1,7 +1,7 @@
 [
 	{
 		"orderId": "ORD001",
-		"orderTotal": 225.0,
+		"orderTotal": 225,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "123 Main St, Springfield, IL, USA",
 		"customerName": "John Doe",
@@ -11,19 +11,21 @@
 				"lineItemId": "LI001",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 2
 			},
 			{
 				"lineItemId": "LI002",
-				"productId": "P003",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD002",
-		"orderTotal": 85.0,
+		"orderTotal": 85,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "456 Oak St, Denver, CO, USA",
 		"customerName": "Jane Smith",
@@ -31,15 +33,16 @@
 		"lineItems": [
 			{
 				"lineItemId": "LI003",
-				"productId": "P002",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD003",
-		"orderTotal": 185.0,
+		"orderTotal": 185,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "789 Pine St, Austin, TX, USA",
 		"customerName": "Emily Johnson",
@@ -49,19 +52,21 @@
 				"lineItemId": "LI004",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 1
 			},
 			{
 				"lineItemId": "LI005",
-				"productId": "P002",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD004",
-		"orderTotal": 125.0,
+		"orderTotal": 125,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "321 Cedar St, Miami, FL, USA",
 		"customerName": "Robert Brown",
@@ -69,15 +74,16 @@
 		"lineItems": [
 			{
 				"lineItemId": "LI006",
-				"productId": "P003",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD005",
-		"orderTotal": 225.0,
+		"orderTotal": 325,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "654 Maple St, Seattle, WA, USA",
 		"customerName": "Sarah Williams",
@@ -87,19 +93,21 @@
 				"lineItemId": "LI007",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 2
 			},
 			{
 				"lineItemId": "LI008",
-				"productId": "P003",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD006",
-		"orderTotal": 85.0,
+		"orderTotal": 85,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "987 Birch St, Boston, MA, USA",
 		"customerName": "David Clark",
@@ -107,15 +115,16 @@
 		"lineItems": [
 			{
 				"lineItemId": "LI009",
-				"productId": "P002",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD007",
-		"orderTotal": 125.0,
+		"orderTotal": 125,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "246 Elm St, Chicago, IL, USA",
 		"customerName": "Laura Martinez",
@@ -123,15 +132,16 @@
 		"lineItems": [
 			{
 				"lineItemId": "LI010",
-				"productId": "P003",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD008",
-		"orderTotal": 225.0,
+		"orderTotal": 225,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "159 Willow St, Los Angeles, CA, USA",
 		"customerName": "Michael Lee",
@@ -141,19 +151,21 @@
 				"lineItemId": "LI011",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 1
 			},
 			{
 				"lineItemId": "LI012",
-				"productId": "P003",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD009",
-		"orderTotal": 85.0,
+		"orderTotal": 85,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "852 Chestnut St, Phoenix, AZ, USA",
 		"customerName": "Daniel Walker",
@@ -161,15 +173,16 @@
 		"lineItems": [
 			{
 				"lineItemId": "LI013",
-				"productId": "P002",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD010",
-		"orderTotal": 100.0,
+		"orderTotal": 100,
 		"orderDate": "2024-09-01",
 		"shippingAddress": "951 Walnut St, Las Vegas, NV, USA",
 		"customerName": "Olivia Thompson",
@@ -179,13 +192,14 @@
 				"lineItemId": "LI014",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD011",
-		"orderTotal": 310.0,
+		"orderTotal": 310,
 		"orderDate": "2024-09-02",
 		"shippingAddress": "357 Poplar St, San Francisco, CA, USA",
 		"customerName": "Sophia Harris",
@@ -195,25 +209,28 @@
 				"lineItemId": "LI015",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 1
 			},
 			{
 				"lineItemId": "LI016",
-				"productId": "P002",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
 			},
 			{
 				"lineItemId": "LI017",
-				"productId": "P003",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD012",
-		"orderTotal": 85.0,
+		"orderTotal": 85,
 		"orderDate": "2024-09-02",
 		"shippingAddress": "753 Oak St, Dallas, TX, USA",
 		"customerName": "James Hall",
@@ -221,15 +238,16 @@
 		"lineItems": [
 			{
 				"lineItemId": "LI018",
-				"productId": "P002",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD013",
-		"orderTotal": 225.0,
+		"orderTotal": 225,
 		"orderDate": "2024-09-02",
 		"shippingAddress": "159 Cypress St, Houston, TX, USA",
 		"customerName": "Mia King",
@@ -237,151 +255,212 @@
 		"lineItems": [
 			{
 				"lineItemId": "LI019",
-				"productId": "P001",
-				"productName": "Valentines Box",
-				"price": 100.0
+				"productId": "P002",
+				"productName": "Birthday Box",
+				"price": 125,
+				"qty": 1
 			},
 			{
 				"lineItemId": "LI020",
-				"productId": "P003",
-				"productName": "Birthday Box",
-				"price": 125.0
+				"productId": "P001",
+				"productName": "Valentines Box",
+				"price": 100,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD014",
-		"orderTotal": 85.0,
+		"orderTotal": 325,
 		"orderDate": "2024-09-02",
-		"shippingAddress": "456 Redwood St, San Diego, CA, USA",
-		"customerName": "Ella Moore",
-		"customerEmail": "ellam@example.com",
+		"shippingAddress": "123 Birch St, San Diego, CA, USA",
+		"customerName": "Lucas Adams",
+		"customerEmail": "lucasa@example.com",
 		"lineItems": [
 			{
 				"lineItemId": "LI021",
+				"productId": "P001",
+				"productName": "Valentines Box",
+				"price": 100,
+				"qty": 2
+			},
+			{
+				"lineItemId": "LI022",
 				"productId": "P002",
-				"productName": "Client Gift Box",
-				"price": 85.0
+				"productName": "Birthday Box",
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD015",
-		"orderTotal": 225.0,
+		"orderTotal": 170,
 		"orderDate": "2024-09-02",
-		"shippingAddress": "312 Birch St, Orlando, FL, USA",
-		"customerName": "Benjamin Wilson",
-		"customerEmail": "benjaminw@example.com",
+		"shippingAddress": "456 Spruce St, Philadelphia, PA, USA",
+		"customerName": "Ella Thompson",
+		"customerEmail": "ellat@example.com",
 		"lineItems": [
 			{
-				"lineItemId": "LI022",
+				"lineItemId": "LI023",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 1
 			},
 			{
-				"lineItemId": "LI023",
+				"lineItemId": "LI024",
 				"productId": "P003",
-				"productName": "Birthday Box",
-				"price": 125.0
+				"productName": "Client Gift Box",
+				"price": 85,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD016",
-		"orderTotal": 125.0,
+		"orderTotal": 225,
 		"orderDate": "2024-09-02",
-		"shippingAddress": "678 Pine St, Nashville, TN, USA",
-		"customerName": "Charlotte Carter",
-		"customerEmail": "charlottec@example.com",
+		"shippingAddress": "789 Cedar St, Seattle, WA, USA",
+		"customerName": "Ethan Young",
+		"customerEmail": "ethany@example.com",
 		"lineItems": [
 			{
-				"lineItemId": "LI024",
-				"productId": "P003",
+				"lineItemId": "LI025",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
+			},
+			{
+				"lineItemId": "LI026",
+				"productId": "P001",
+				"productName": "Valentines Box",
+				"price": 100,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD017",
-		"orderTotal": 85.0,
-		"orderDate": "2024-09-02",
-		"shippingAddress": "543 Aspen St, Portland, OR, USA",
-		"customerName": "Henry Martinez",
-		"customerEmail": "henrym@example.com",
+		"orderTotal": 85,
+		"orderDate": "2024-09-03",
+		"shippingAddress": "987 Pine St, Minneapolis, MN, USA",
+		"customerName": "Ava Allen",
+		"customerEmail": "avaa@example.com",
 		"lineItems": [
 			{
-				"lineItemId": "LI025",
-				"productId": "P002",
+				"lineItemId": "LI027",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD018",
-		"orderTotal": 310.0,
-		"orderDate": "2024-09-02",
-		"shippingAddress": "954 Fir St, Atlanta, GA, USA",
-		"customerName": "Amelia Harris",
-		"customerEmail": "ameliah@example.com",
+		"orderTotal": 100,
+		"orderDate": "2024-09-03",
+		"shippingAddress": "321 Oak St, Denver, CO, USA",
+		"customerName": "James Wilson",
+		"customerEmail": "jamesw@example.com",
 		"lineItems": [
 			{
-				"lineItemId": "LI026",
+				"lineItemId": "LI028",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
-			},
-			{
-				"lineItemId": "LI027",
-				"productId": "P002",
-				"productName": "Client Gift Box",
-				"price": 85.0
-			},
-			{
-				"lineItemId": "LI028",
-				"productId": "P003",
-				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 100,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD019",
-		"orderTotal": 225.0,
-		"orderDate": "2024-09-02",
-		"shippingAddress": "857 Cedar St, Minneapolis, MN, USA",
-		"customerName": "Lucas Davis",
-		"customerEmail": "lucasd@example.com",
+		"orderTotal": 310,
+		"orderDate": "2024-09-03",
+		"shippingAddress": "654 Elm St, San Jose, CA, USA",
+		"customerName": "Mason Davis",
+		"customerEmail": "masond@example.com",
 		"lineItems": [
 			{
 				"lineItemId": "LI029",
 				"productId": "P001",
 				"productName": "Valentines Box",
-				"price": 100.0
+				"price": 100,
+				"qty": 1
 			},
 			{
 				"lineItemId": "LI030",
 				"productId": "P003",
+				"productName": "Client Gift Box",
+				"price": 85,
+				"qty": 1
+			},
+			{
+				"lineItemId": "LI031",
+				"productId": "P002",
 				"productName": "Birthday Box",
-				"price": 125.0
+				"price": 125,
+				"qty": 1
 			}
 		]
 	},
 	{
 		"orderId": "ORD020",
-		"orderTotal": 85.0,
-		"orderDate": "2024-09-02",
-		"shippingAddress": "105 Oak St, Charlotte, NC, USA",
-		"customerName": "Isabella Thompson",
-		"customerEmail": "isabellat@example.com",
+		"orderTotal": 125,
+		"orderDate": "2024-09-03",
+		"shippingAddress": "852 Willow St, Miami, FL, USA",
+		"customerName": "Sophia Martinez",
+		"customerEmail": "sophiam@example.com",
 		"lineItems": [
 			{
-				"lineItemId": "LI031",
+				"lineItemId": "LI032",
 				"productId": "P002",
+				"productName": "Birthday Box",
+				"price": 125,
+				"qty": 1
+			}
+		]
+	},
+	{
+		"orderId": "ORD021",
+		"orderTotal": 85,
+		"orderDate": "2024-09-03",
+		"shippingAddress": "159 Maple St, Los Angeles, CA, USA",
+		"customerName": "Liam Brown",
+		"customerEmail": "liamb@example.com",
+		"lineItems": [
+			{
+				"lineItemId": "LI033",
+				"productId": "P003",
 				"productName": "Client Gift Box",
-				"price": 85.0
+				"price": 85,
+				"qty": 1
+			}
+		]
+	},
+	{
+		"orderId": "ORD022",
+		"orderTotal": 225,
+		"orderDate": "2024-09-03",
+		"shippingAddress": "951 Birch St, Boston, MA, USA",
+		"customerName": "Chloe Scott",
+		"customerEmail": "chloes@example.com",
+		"lineItems": [
+			{
+				"lineItemId": "LI034",
+				"productId": "P001",
+				"productName": "Valentines Box",
+				"price": 100,
+				"qty": 1
+			},
+			{
+				"lineItemId": "LI035",
+				"productId": "P002",
+				"productName": "Birthday Box",
+				"price": 125,
+				"qty": 1
 			}
 		]
 	}

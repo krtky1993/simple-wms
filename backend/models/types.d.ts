@@ -1,8 +1,17 @@
+interface Product {
+	itemName: string;
+	sku: string;
+	price: number;
+	qty?: number;
+}
+
 interface LineItem {
-	lineItemId: string;
+	lineItemId?: string;
 	productId: string;
 	productName: string;
 	price: number;
+	qty?: number;
+	items?: Product[];
 }
 
 interface Order {
@@ -15,10 +24,4 @@ interface Order {
 	lineItems: LineItem[];
 }
 
-interface Filter {
-	id?: string;
-	date?: string;
-	email?: string;
-}
-
-export { LineItem, Order, Filter };
+export { LineItem, Order, Product };
