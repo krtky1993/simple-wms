@@ -47,12 +47,9 @@ const PickingPage: React.FC = () => {
 				Pick ups for today
 			</p>
 			<Card className="py-4 w-full max-w-lg">
-				<CardBody className="pb-0 pt-2 px-4 flex-col items-center">
+				<CardBody className="py-2 px-4 flex-col items-center">
 					<p className="text-medium uppercase font-bold text-center">
 						Total Orders: {totalOrders}
-					</p>
-					<p className="text-medium uppercase font-bold text-center">
-						Total Items: {products.length}
 					</p>
 				</CardBody>
 			</Card>
