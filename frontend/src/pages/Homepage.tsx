@@ -6,8 +6,8 @@ const HomePage: React.FC = () => {
 
 	return (
 		<div className="justify-center h-screen w-screen flex-col flex items-center">
-			<p className="text-xl p-10  font-bold text-center">Welcome!</p>
-			<p className="text-xl p-10  font-bold text-center">
+			<p className="text-4xl p-10  font-bold text-center">Welcome!</p>
+			<p className="text-2xl p-10  font-bold text-center">
 				Select your function
 			</p>
 			<div className="flex-row">

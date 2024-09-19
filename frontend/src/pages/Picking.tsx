@@ -43,12 +43,12 @@ const PickingPage: React.FC = () => {
 
 	return (
 		<div className="justify-center h-screen w-screen flex-col flex items-center">
-			<p className="text-xl p-10 uppercase font-bold text-center">
+			<p className="text-4xl p-10 uppercase font-bold text-center">
 				Pick ups for today
 			</p>
 			<Card className="py-4 w-full max-w-lg">
 				<CardBody className="py-2 px-4 flex-col items-center">
-					<p className="text-medium uppercase font-bold text-center">
+					<p className="text-xl uppercase font-bold text-center">
 						Total Orders: {totalOrders}
 					</p>
 				</CardBody>
